@@ -1,0 +1,42 @@
+
+.page
+ { border: 1px solid #665544;
+     background-color: #14eeb7; 
+      padding: inherit;
+} 
+div{
+    height: 500px;
+    width: 100;
+}
+h1,h2,h3,h4{
+   color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+    text-shadow: 10px,10px,10px,rgb(6, 236, 64);
+    text-transform: uppercase;
+    letter-spacing: 0.9em;
+    text-align: center;
+}
+p{
+    text-align: center;
+    
+
+}
+.one{
+    width: 300px;
+    height:200px;
+}
+.two{
+    width: 300px;
+    height: 200px;
+    
+}
+.three{
+    width: 300px;
+    height: 200px;
+    
+}
+h5{
+    text-align: center;
+    letter-spacing: 10em;
+}
